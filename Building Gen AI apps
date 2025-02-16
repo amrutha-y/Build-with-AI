@@ -1,0 +1,16 @@
+The second keynote by Matt Thopmson was: Build Faster, Smarter, Better GenAI Apps with Google Cloud.
+Live demo by Abirami Sukumaran helped to understand this.
+Key Topics:
+
+--Bottom Up approach of coding tools
+--Top Down approach for app development
+--Data and AI development
+--Operations simplified with Gemini in Colab, Gemini Looker
+--Toolbox for debugging and troubleshooting etc.
+--LangChain4J, the GenAI orchestration library
+
+console.cloud.google.com -->web based interface for google cloud project and resources.
+
+
+
+
